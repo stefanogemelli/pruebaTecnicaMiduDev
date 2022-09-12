@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  align-content: center;
+}
+.text {
+  display: inline-block;
+  width: 48vw;
+}
+.image {
+  width: 48vw;
+  height: 48vw;
+  object-fit: contain;
+}
+
+
+/*# sourceMappingURL=/src.a2b27638.css.map */
